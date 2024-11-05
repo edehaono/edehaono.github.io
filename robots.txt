@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edehaono.github.io/AZK/sitemap_index.txt
+Sitemap: https://edehaono.github.io/AkB/sitemap_index.txt
+Sitemap: https://edehaono.github.io/Bdk/sitemap_index.txt
+Sitemap: https://edehaono.github.io/Ygo/sitemap_index.txt
